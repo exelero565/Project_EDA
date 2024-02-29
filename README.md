@@ -1,6 +1,8 @@
 # Project_EDA
 Исследование влияния характеристик клиентов страховой компании на размер страховых выплат
 
+![DALL·E 2024-02-29 16 11 28 - Create a visually appealing and thematic image for a GitHub repository focused on statistical tests and exploratory data analysis (EDA) in the context](https://github.com/exelero565/Project_EDA/assets/97280394/f9500b96-3a23-4eb1-a5e4-5f5da1b0141f)
+
 # Статистические тесты в контексте EDA
 
 ## Введение
